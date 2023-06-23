@@ -35,6 +35,7 @@
   padding: .5rem 1rem;
   padding-right: 2rem;
   border-radius: .3rem;
+  cursor: pointer;
 }
 .banner_buttons .play {
   background: #fff;
